@@ -1,4 +1,6 @@
 # ObjetivosApp
+![objetivosApp2](https://user-images.githubusercontent.com/83327665/121581829-4dd9e800-c9fc-11eb-8f0c-c695e6f2b684.gif)
+
 
 ## Project setup
 ```
